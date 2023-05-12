@@ -1,0 +1,10 @@
+IP-Ranges StMLB		
+für die interne Verwendung		
+		
+IP	Netzbeschreibung	Domain
+193.34.207.1	stmlb_internal_VLAN1	stmlb.bayern.de
+193.34.207.2	stmlb_internal_VLAN2	stmlb.bayern.de
+195.200.70/24	stmlb_extern_WebServer	stmlb.bayern.de
+195.200.71.1	stmlb_public_NAT	stmlb.bayern.de
+195.200.71.99	stmlb_administration	stmlb.bayern.de
+195.200.71.254	stmlb_NAS_vs-nfd	stmlb.bayern.de
